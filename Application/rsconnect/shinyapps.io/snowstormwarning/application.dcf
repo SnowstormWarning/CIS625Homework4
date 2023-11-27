@@ -1,0 +1,10 @@
+name: application
+title:
+username: snowstormwarning
+account: snowstormwarning
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10634072
+bundleId: 7972516
+url: https://snowstormwarning.shinyapps.io/application/
+version: 1
